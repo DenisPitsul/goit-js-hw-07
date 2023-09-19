@@ -1,5 +1,5 @@
 import { galleryItems } from './gallery-items.js';
-// Change code below this line.
+// Change code below this line
 const galleryUl = document.querySelector('.gallery');
 
 const galleryMarkup = galleryItems.map(({preview, original, description}) => {
